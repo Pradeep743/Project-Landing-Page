@@ -5,14 +5,6 @@
 This is a fully responsive landing page of a flower delivery shop. Webpage is designed in figma. Google fonts, font-awesome icons and a CSS framework, Bootstrap is used in making this webpage. You can
 visit the live website from the below link: 
 
-## Overview
-
-### Screenshot
-
-![](./assets/flowerKona.png)
-
-### Links
-
 - Live Site URL : [Flower_Kona]()
 
 ### Built with
